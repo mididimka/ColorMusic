@@ -47,13 +47,6 @@
 
 ![ColorMusic Preview](docs/preview.png)
 
-## Скачать готовую сборку
-
-Готовый бинарник лучше публиковать как GitHub Release asset.
-
-- **Рекомендуемое имя архива:** `ColorMusic.zip`
-- **Ссылка в README уже готова:** `../../releases/latest/download/ColorMusic.zip`
-
 
 
 ## Быстрый старт
