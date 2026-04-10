@@ -1,0 +1,14 @@
+﻿<Window x:Class="ColorMusic.SpectrumWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Спектр"
+        Height="260"
+        Width="700"
+        Background="#060A10"
+        WindowStartupLocation="CenterScreen"
+        Topmost="True"
+        ShowInTaskbar="False">
+    <Grid>
+        <Canvas Name="SpectrumCanvas"/>
+    </Grid>
+</Window>
